@@ -53,3 +53,16 @@ body {
     text-decoration: none;
     font: Georgia;
   } 
+
+  .image1{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .image2{
+    width: 120px;
+    height: 120px;
+  }
