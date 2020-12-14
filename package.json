@@ -2,7 +2,7 @@
   "name": "dunhamssports_spa",
   "version": "0.1.0",
   "private": true,
-  "homepage":  "https://kherrod96.github.io/dunhamssports/",
+  "homepage": "https://kherrod96.github.io/dunhamssports/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
